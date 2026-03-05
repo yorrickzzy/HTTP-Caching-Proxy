@@ -146,4 +146,4 @@ Test coverage includes:
 
 - Corrupted origin response → 502
 
-### Contributor: Zeyuan Zhang / Jiayi Li
+Contributor: Zeyuan Zhang / Jiayi Li
