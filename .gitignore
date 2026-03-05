@@ -1,0 +1,11 @@
+# Build artifacts
+proxy
+*.o
+
+# Logs
+*.log
+logs/
+docker-deploy/logs/
+
+# macOS
+.DS_Store
