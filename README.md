@@ -1,4 +1,4 @@
-### ERSS HW2 – Multithreaded HTTP Proxy
+### Multithreaded HTTP Proxy
 ### 1. Implemented Features
 
 Multithreaded HTTP proxy (one thread per connection)
@@ -145,3 +145,5 @@ Test coverage includes:
 - POST forwarding
 
 - Corrupted origin response → 502
+
+### Contributor: Zeyuan Zhang / Jiayi Li
